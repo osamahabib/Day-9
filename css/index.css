@@ -1,0 +1,86 @@
+body{
+    background-color: gainsboro;
+    padding-left: 10px;
+}
+
+#contact_us_form{
+    background-color: white;
+    color: black;
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+}
+
+label{
+    font-weight: bold;
+    width: 100%;
+}
+
+#form{
+    background-color: darkgray;
+    padding-bottom: 10px;
+}
+
+#btn1{
+    background-color: darkslategray;
+    color: wheat;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-right: 20px;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    margin-top: 5px;
+    padding-bottom: 10px;
+}
+
+#ques6{
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+#templateform{
+    background-color: white;
+    border: medium solid black;
+    padding: 20px;
+}
+
+.name_data{
+    display: inline-block;
+    position: relative;
+}
+
+.name{
+    width: 100%;
+}
+
+#address_field{
+    width: 100%;
+}
+
+.address{
+    display: inline-block;
+    width: 33%;
+}
+
+input[type=text]{
+    width: 100%;
+}
+
+#form_banner{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.form-all {
+    border: medium solid red;
+}
+
+.health_chart, tr, td{
+    border: 2px black solid;
+    text-align: center;
+}
